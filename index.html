@@ -6,7 +6,11 @@ layout: default
 <div class="layer--SMALL">
   <div class="container container--TIGHT">
   {% for section in site.sections %}
-    <h4><a href="/emerald/{{section.url}}"><strong>{{ section.title }}:</strong> {{section.subtitle}}</a></h4>
+    <h4><a href="/emerald/{{section.url}}"><strong>{{ section.title }}:</strong></a></h4>
+    <h5 class="text--charcoal">{{section.subtitle}}</h5>
+    <p>{{section.excerpt}}</p>
+    <span class="spacing--bottom-p2"><a href="/emerald/{{section.url}}">Read {{section.title}}</a></span>
+    <hr class="divider--CHARCOAL">
   {% endfor %}
   </div>
 </div>

@@ -3,9 +3,15 @@
     height: 0;
     margin: $spacing-unit / 2 0 $spacing-unit / 2 0;
   }
-  
+
   .divider {
     @include divider;
     border-top: 4px solid $dark-gray;
     width: $spacing-unit * 2;
+
+    &--CHARCOAL {
+      @include divider;
+      border-top: 1px dotted $dark-gray;
+      padding-top: $spacing-unit * .5;
+    }
   }
