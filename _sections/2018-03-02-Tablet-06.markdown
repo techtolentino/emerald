@@ -1,10 +1,10 @@
 ---
 layout: section
 title:  "Tablet Six"
+subtitle: The Key of Magic
 ---
-## The Key of Magic
 
-Hark ye, O man, to the wisdom of magic. 
+Hark ye, O man, to the wisdom of magic.
 Hark the knowledge of powers forgotten.
 Long, ago in the days of the first man,
 warfare began between darkness and light.
@@ -38,7 +38,7 @@ to fill all with their darkness:
 Sought to draw others into their night.
 Fiercely withstood they, the masters of brightness:
 fiercely fought they from the darkness of night
-Sought ever to tighten the fetters, 
+Sought ever to tighten the fetters,
 the chains that bind men to the darkness of night.
 Used they always the dark magic,
 brought into men by the power of darkness.
