@@ -3,5 +3,11 @@
         display: flex;
         justify-content: space-between;
         padding: $spacing-unit 0;
+
+        @include media-query($small-screen) {
+            font-size: .875em;
+        }
     }
+
+    
 }
