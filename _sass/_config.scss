@@ -1,9 +1,9 @@
 // Base variables
-$base-font-family: 'Source Sans Pro', sans-serif;
-$base-font-size:   1em;
-$base-font-weight: 400;
+$base-font-family: 'Yantramanav', sans-serif;
+$base-font-size:   18px;
+$base-font-weight: 300;
 $small-font-size:  $base-font-size * 0.875;
-$base-line-height: 1.5;
+$base-line-height: 1.4;
 
 // Spacing
 $spacing-unit: 2em;
@@ -13,12 +13,13 @@ $text-color: #323232;
 $background-color: #FDFDFD;
 
 $secondary: #38385E;
-$success: #2ECC71;
+$success: #119167;
 $danger: #FE446E;
 $warning: #FDC23E;
 $primary: #3488BD;
 $gray: #D9D9E0;
 
+$dark-gray: darken($gray, 20%);
 $primary-light: #80D3EC;
 $warning-light: #FFE6AF;
 

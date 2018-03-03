@@ -3,12 +3,10 @@ layout: default
 ---
 {% include hero.html %}
 
-{% for section in site.sections %}
-    <div class="layer layer--SMALL">
-        <div class="container">
-            <img class="icon" src="assets/{{ section.icon }}" alt="{{ section.icon }} icon">
-            <h2>{{ section.title }}</h2>
-            {{section.content}}
-        </div>
+<div class="layer--SMALL">
+    <div class="container container--TIGHT">
+    {% for section in site.sections %}
+            <h4><a href="{{section.url}}">{{ section.title }}</a></h4>
+    {% endfor %}
     </div>
-{% endfor %}
+</div>

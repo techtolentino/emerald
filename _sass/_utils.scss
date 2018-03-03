@@ -1,0 +1,9 @@
+.text {
+    &--white {
+        color: $background-color;
+    }
+
+    &--success {
+        color: $success;
+    }
+}
