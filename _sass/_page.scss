@@ -9,5 +9,16 @@
         }
     }
 
-    
+    &--title {
+      display: inline-block;
+    }
+
+    &--icon {
+      display: inline-block;
+      width: 3em;
+      margin-left: .5em;
+      margin-bottom: -10px;
+    }
+
+
 }

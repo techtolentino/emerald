@@ -2,6 +2,7 @@
 layout: section
 title:  "Tablet Five"
 subtitle: The Dwellar of Unal
+icon: "tablet-five"
 ---
 
 Oft dream I of buried Atlantis,

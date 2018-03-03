@@ -2,6 +2,7 @@
 layout: section
 title:  "Tablet One"
 subtitle: The History of Thoth the Atlantean
+icon: "tablet-one"
 ---
 
 I, THOTH, the Atlantean, master of mysteries,

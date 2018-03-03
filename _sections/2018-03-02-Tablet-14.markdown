@@ -2,6 +2,7 @@
 layout: section
 title:  "Tablet Fourteen"
 subtitle: Becoming Thrice Greatest
+icon: "tablet-fourteen"
 ---
 
 List ye, O Man, to the deep hidden wisdom,

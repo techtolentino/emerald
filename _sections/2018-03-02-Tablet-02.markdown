@@ -2,6 +2,7 @@
 layout: section
 title:  "Tablet Two"
 subtitle: The Halls of Amenti
+icon: "tablet-two"
 ---
 Deep in Earth's heart lie the Halls of Amenti,
 far 'neath the islands of sunken Atlantis,

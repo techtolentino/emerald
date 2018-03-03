@@ -2,6 +2,7 @@
 layout: section
 title:  "Tablet Twelve"
 subtitle: The Law of Cause and Effect and The Key of Prophecy
+icon: "tablet-twelve"
 ---
 
 List ye, O man, to the words of my wisdom,

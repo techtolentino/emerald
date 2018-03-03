@@ -2,6 +2,7 @@
 layout: section
 title:  "Tablet Eleven"
 subtitle: The Key to Above and Below
+icon: "tablet-eleven"
 ---
 
 Hear ye and list ye, O children of Khem,

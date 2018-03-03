@@ -2,6 +2,7 @@
 layout: section
 title:  "Tablet Three"
 subtitle: The Key of Wisdom
+icon: "tablet-three"
 ---
 
 I, Thoth, the Atlantean,

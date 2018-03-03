@@ -2,6 +2,7 @@
 layout: section
 title:  "Preface"
 subtitle: Introduction to the Tablets
+icon: "preface"
 ---
 
 In the following pages, I will reveal some of the mysteries which as yet have only been touched upon lightly either by myself or other teachers or students of truth.

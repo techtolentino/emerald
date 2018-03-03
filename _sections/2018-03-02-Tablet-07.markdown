@@ -2,6 +2,7 @@
 layout: section
 title:  "Tablet Seven"
 subtitle: The Seven Lords
+icon: "tablet-seven"
 ---
 
 Hark ye O man, and list to my Voice.

@@ -2,6 +2,7 @@
 layout: section
 title:  "Tablet Fifteen"
 subtitle: Secret of Secrets
+icon: "tablet-fifteen"
 ---
 Now ye assemble, my children,
 waiting to hear the Secret of Secrets
