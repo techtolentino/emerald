@@ -37,6 +37,11 @@
         width: 100%;
         padding-top: $spacing-unit * 6;
         padding-bottom: $spacing-unit * 6;
+
+        @include media-query($small-screen) {
+          padding-top: $spacing-unit * 3;
+          padding-bottom: $spacing-unit * 3;
+        }
     }
 
     &--MEDIUM {
@@ -48,6 +53,11 @@
             width: 100%;
             padding-top: $spacing-unit * 4;
             padding-bottom: $spacing-unit;
+
+            @include media-query($small-screen) {
+              padding-top: $spacing-unit * 2;
+              padding-bottom: 0;
+            }
         }
     }
 
